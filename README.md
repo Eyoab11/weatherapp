@@ -34,9 +34,9 @@ A weather forecasting application built with React that uses the OpenWeatherMap 
    npm run dev
 
 ## Usage
-**Search for a city**: Type the name of a city into the input field and press Enter or click the search button.
-**Get weather based on location**: The app will automatically fetch weather information using your device's geolocation (you can disable this in your browser settings if you prefer).
-**See weather data**: After fetching, the app will display the city name, country, weather conditions, temperature, and humidity.
+- **Search for a city**: Type the name of a city into the input field and press Enter or click the search button.
+- **Get weather based on location**: The app will automatically fetch weather information using your device's geolocation (you can disable this in your browser settings if you prefer).
+- **See weather data**: After fetching, the app will display the city name, country, weather conditions, temperature, and humidity.
 
 ## API Key
 To use the OpenWeatherMap API, you'll need an API key. You can get one by signing up at OpenWeatherMap.
