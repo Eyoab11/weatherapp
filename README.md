@@ -43,9 +43,3 @@ To use the OpenWeatherMap API, you'll need an API key. You can get one by signin
 Once you have your API key, replace the placeholder in the Weather_API_Key constant with your actual API key:
 
   const Weather_API_Key = "enter-your-key-here";
-
-## Demo
-You can try the live version of this app here: 
-
-
-
