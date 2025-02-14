@@ -22,7 +22,7 @@ A weather forecasting application built with React that uses the OpenWeatherMap 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/weatherapp.git
+   git clone https://github.com/Eyoab11/weatherapp.git
 2. Navigate to the project directory
     ```bash
    cd weatherapp
